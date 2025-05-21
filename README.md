@@ -31,10 +31,6 @@ Ce projet a été réalisé dans le cadre d’un exercice universitaire. Il s'ag
 
 ````
 
-## 📷 Aperçu
-
-![screenshot](./assets/screenshot.png) <!-- Tu peux ajouter un screenshot ici -->
-
 ## 🧪 Exécution locale
 
 1. Cloner ce dépôt :
